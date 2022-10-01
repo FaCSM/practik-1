@@ -1,3 +1,0 @@
-C:/Users/sasa6/CLionProjects/IHT/cmake-build-debug/CMakeFiles/IHT.dir
-C:/Users/sasa6/CLionProjects/IHT/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sasa6/CLionProjects/IHT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
